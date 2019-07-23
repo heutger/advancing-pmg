@@ -1,4 +1,4 @@
-# Advancing Proxmox Mail Gateway (especially Spam and Virus Detection)
+# Advancing Proxmox Mail Gateway
 
 This repository contains adjustments to improve Proxmox Mail Gateway setup.
 
